@@ -25,7 +25,7 @@ round-trip min/avg/max/stddev = 54.770/54.875/54.971/0.081 ms
 
 > 使用 BestTrace 跃点跟踪
 
-![截屏2021-08-24 下午8.37.31](./截屏2021-08-24 下午8.37.31.png)
+![trace-tencent-hk](./trace-tencent-hk.png)
 
 ### 阿里云
 
@@ -47,7 +47,7 @@ round-trip min/avg/max/stddev = 103.755/103.755/103.755/0.000 ms
 
 > 使用 BestTrace 跃点跟踪
 
-![截屏2021-08-24 下午8.37.31](./截屏2021-08-24 下午8.37.31.png)
+![trace-aliyun-hk](./trace-aliyun-hk.png)
 
 ### 文档信息
 
